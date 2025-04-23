@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Flow cats</string>
+    <string name="error">Что-то пошло не так</string>
 </resources>
